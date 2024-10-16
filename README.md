@@ -3,4 +3,4 @@ Current assignments available are:
   1. Assignment 1 (17 exercises) -> PDS_Assignment_1.ipynb
   2. Assignment 2 (4 exercises, requirements.txt) -> assignment_2/PDS_Assignment_2.ipynb
   3. Assignment 3 (4 exercises, requirements.txt) -> assignment_3/PDS_Assignment_3_F.ipynb
-      - Assignment regardinf the OOP where 3 classes are created(Student, Course, Registration)
+      - Assignment about the OOP where 3 classes are created(Student, Course, Registration)
