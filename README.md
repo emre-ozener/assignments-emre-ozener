@@ -5,3 +5,5 @@ Current assignments available are:
   2. Assignment 2 (4 exercises, requirements.txt, readme file) -> assignment_2/
   3. Assignment 3 (4 exercises, requirements.txt, readme file) -> assignment_3/
       - Assignment about the OOP where 3 classes are created(Student, Course, Registration). Registration is placed as a center class which the methods in the Registration affected the Student and Course.
+  4. Assignment 4 (7 exercises, requirements.txt,  readme file) -> assignment_4/
+  5. Assignment 5 (3 exercises, requirements.txt, readme dile, json file, pickle file, annotations -> assignment_5/
