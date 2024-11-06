@@ -1,0 +1,7 @@
+python==3.10
+re==2.2.1
+json==2.0.9
+glob
+os
+datetime
+pickle
