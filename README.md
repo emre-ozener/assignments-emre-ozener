@@ -8,3 +8,4 @@ Current assignments available are:
   4. Assignment 4 (7 exercises, requirements.txt,  readme file) -> assignment_4/
   5. Assignment 5 (3 exercises, requirements.txt, readme file, json file, pickle file, annotations -> assignment_5/
   6. Assignment 6 (7 exercises, requirements.txt, readme file, 2 csv files (netflix, titanic) -> assignment_6/
+  7. Assignment 7 (4 exercises, requirements.txt, readme file -> assignment_7/
